@@ -48,6 +48,11 @@ body {
     font-weight: 600;
 }
 
+.app-header h2 {
+    font-size: 1.5rem;
+    font-weight: 600;
+}
+
 .btn {
     display: inline-flex;
     align-items: center;
