@@ -36,7 +36,7 @@ body {
 
 .app-header {
     display: flex;
-    justify-items: space-between;
+    justify-content: space-between;
     align-items: center;
     margin-bottom: 2rem;
     padding-bottom: 1rem;
