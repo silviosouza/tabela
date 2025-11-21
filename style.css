@@ -43,7 +43,7 @@ body {
     border-bottom: 1px solid var(--border-color);
 }
 
-.app-header h1 {
+.page-container h1 {
     font-size: 1.75rem;
     font-weight: 600;
     color: var(--primary-color);
